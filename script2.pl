@@ -1,7 +1,7 @@
 :- initialization(main).
 
 some_predicate :-
-    format("WEW"),
+    format("WEW").
 
 main :-
     format("Hello world 2!~n").
